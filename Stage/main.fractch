@@ -1,0 +1,8 @@
+/**
+ * target: Stage
+ * targetId: 
+ */
+
+platform "Bilup" from "https://bilup.org/";
+
+costume "背景1" file "assets/__1.svg" center 240,180;
