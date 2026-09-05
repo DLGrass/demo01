@@ -6,3 +6,7 @@
 platform "Bilup" from "https://bilup.org/";
 
 costume "背景1" file "assets/__1.svg" center 240,180;
+
+script at 197,379 {
+  looks.switchbackdroptoandwait(BACKDROP: looks.backdrops("背景1"));
+}
