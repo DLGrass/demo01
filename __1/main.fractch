@@ -1,0 +1,8 @@
+/**
+ * target: 角色1
+ * targetId: 
+ */
+
+sprite "角色1" at 36,28 layer 1;
+
+costume "造型1" file "assets/__1.svg" center 0,0;
